@@ -4,7 +4,7 @@
 
 This line has no hashtag markdown :)
 
-  1.list
-  2.in
-  3.markdown
+1. list
+2. in
+3. 3. markdown
 
